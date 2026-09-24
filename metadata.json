@@ -1,0 +1,6 @@
+{
+  "name": "ChromaMatrix - Multi-Format Color Converter",
+  "description": "Professional 5-slot color converter supporting RGBA, Hex, Decimal, and Normalized 0~1 float values with real-time preview, eyedropper, and batch copy-paste.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
